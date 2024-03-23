@@ -1,0 +1,14 @@
+@import 'utilities.css';
+:root {
+  --primary: #f5deb3;
+  /* --primary: rgb(22, 217, 185); */
+  --bgDark: #333;
+  --white: #efefef;
+  --color: #9a2a16cb;
+  --color2: #0f0a0a;
+  --secondary: rgb(0, 59, 50);
+  --bgLight: rgb(190, 181, 181);
+}
+
+
+
