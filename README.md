@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my personal portfolio website, crafted with HTML, CSS, and JavaScript. This site showcases my work, skills, and projects.
+Welcome to my personal portfolio website, crafted with HTML and CSS. This site showcases my work, skills, and projects.
 
 ## Features
 
